@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba1fb772fd96f0d45aad9cdfe2c77216, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  _animalRegistry: {fileID: 11400000, guid: 4c8c3f2e450e1f34bba559e2edf3c56e, type: 2}
+  _minSpawnInterval: 1
+  _maxSpawnInterval: 2
+  _maxAnimals: 15
+  _prewarmPerAnimal: 5
+  _spawnHeight: 1
